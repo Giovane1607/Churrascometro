@@ -1,0 +1,24 @@
+.container {
+    font-family: Arial, Helvetica, sans-serif;
+    max-width: 300px;
+    margin: auto;
+    background-color: #808080;
+    padding: 30px;
+    border-radius: 30px;
+  }
+  
+  h1 {
+    margin-top: 0;
+  }
+  
+  input {
+    padding: 10px;
+    width: 100%;
+    display: block;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #eaeaea;
+  }
+  
